@@ -1,13 +1,11 @@
 package com.pshah.dp;
 
-/**
- * Hello world!
- *
- */
+import com.pshah.dp.singleton.EnumSingleton;
+
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        EnumSingleton.doSomthing();
     }
 }
