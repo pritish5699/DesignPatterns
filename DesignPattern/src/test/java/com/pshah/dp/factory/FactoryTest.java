@@ -1,4 +1,4 @@
-package com.pshah.dp.factory.test;
+package com.pshah.dp.factory;
 
 import com.pshah.dp.design.model.Computer;
 import com.pshah.dp.factory.ComputerFactory;

@@ -1,4 +1,4 @@
-package com.pshah.dp.singleton.test;
+package com.pshah.dp.singleton;
 
 import java.lang.reflect.Constructor;
 
