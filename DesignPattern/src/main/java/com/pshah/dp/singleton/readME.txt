@@ -1,7 +1,5 @@
-Singleton Pattern:
-
+Pattern name: Singleton
 Category: Creational
-
 Definition:
 "Singleton pattern restrict instantiation  of class, and make sure that only one instance of exist in JVM."
 
