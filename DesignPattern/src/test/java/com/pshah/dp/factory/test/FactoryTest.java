@@ -1,7 +1,7 @@
 package com.pshah.dp.factory.test;
 
+import com.pshah.dp.design.model.Computer;
 import com.pshah.dp.factory.ComputerFactory;
-import com.pshah.dp.factory.model.Computer;
 
 public class FactoryTest {
 	

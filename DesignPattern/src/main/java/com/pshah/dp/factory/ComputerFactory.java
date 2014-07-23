@@ -1,8 +1,8 @@
 package com.pshah.dp.factory;
 
-import com.pshah.dp.factory.model.Computer;
-import com.pshah.dp.factory.model.PC;
-import com.pshah.dp.factory.model.Server;
+import com.pshah.dp.design.model.Computer;
+import com.pshah.dp.design.model.PC;
+import com.pshah.dp.design.model.Server;
 
 //We can keep Factory class Singleton or we can keep the method that returns the subclass as static.
 public class ComputerFactory {

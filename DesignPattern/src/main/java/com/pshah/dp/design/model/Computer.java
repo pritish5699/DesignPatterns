@@ -1,4 +1,4 @@
-package com.pshah.dp.factory.model;
+package com.pshah.dp.design.model;
 
 //Super class in factory pattern can be an interface, abstract class or a normal java class.
 public interface Computer {

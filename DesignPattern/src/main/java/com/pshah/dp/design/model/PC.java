@@ -1,4 +1,4 @@
-package com.pshah.dp.factory.model;
+package com.pshah.dp.design.model;
 
 public class PC implements Computer{
 	
