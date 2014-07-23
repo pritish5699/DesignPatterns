@@ -29,3 +29,9 @@ object after setting the optional attribute.
 
 4. The final step is to provide a build() method in the builder class that will return the Object needed by 
 client program. For this we need to have a private constructor in the Class with Builder class as argument.
+
+
+Usage:
+
+1. java.lang.StringBuilder#append() (unsynchronized)
+2. java.lang.StringBuffer#append() (synchronized)
